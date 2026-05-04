@@ -15,7 +15,7 @@ A complete end-to-end ML pipeline to predict the probability of loan default for
 ---
 
 ## Dashboard Preview
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Screenshot__402_.png)
 
 ## 2. Business Problem
 
@@ -25,7 +25,7 @@ In fintech and financial services, identifying high-risk applicants before disbu
 
 ---
 ## Model Scores
-![Model Accuracy](accuracy.png)
+![Model Accuracy](Screenshot__411_.png)
 
 ## 3. Dataset
 
